@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cristina1498
 - 👀 I’m interested in biology
 - 🌱 I’m currently learning chemistry
-- 💞️ I’m looking to collaborate on ecological restoration projectsec
+- 💞️ I’m looking to collaborate on ecological restoration projects
 - 📫 How to reach me ic.yepezpalafox@ugto.mx
 
 <!---
